@@ -48,7 +48,7 @@ This Flask project is designed to provide Blog and User management functionaliti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Akashcitrusbug/flask-sample/tree/main/app
+   git clone git@github.com:thatdipen/flask-sample.git
    cd user_management_project
    ```
 
